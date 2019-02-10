@@ -4,7 +4,8 @@
 
 ## Draw and Discard Pile
 
-The draw and discard pile aren't done by myself. I use the _Secret Hitler Policy Draw and Discard Piles_ by _philipl_ on Thingiverse. They need to be scaled by **142%** in order to fit with the board game.
+The draw and discard pile aren't done by myself. I use the _Secret Hitler Policy Draw and Discard Piles_ by _philipl_ on Thingiverse. They need to be scaled by **142%** in order to fit with the board game. <br>
+There is a remixed version of these in this repository. The drawpile was modified for easier drawing of cards and they are already scaled up.
 
 [[Download it from Thingiverse]](https://www.thingiverse.com/thing:1350881)
 
